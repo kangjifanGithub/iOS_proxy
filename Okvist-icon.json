@@ -1,8 +1,12 @@
 {
-  "name": "Okvist自用图标库",
-  "description": "收集一些自己常用的图标，，更新日期：2025-04-12 21:00:00",
+  "name": "Okvist自用图标",
+  "description": "收集一些自己常用的图标，更新日期：2025-04-12 21:00:00",
   "icons": [
     {
+      "name": "Okvist",
+      "url": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/fmz200-01.png"
+    },
+    {
       "name": "douban",
-      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icon/douban.png"
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/douban.png"
     },
