@@ -1,0 +1,8 @@
+{
+  "name": "Okvist自用图标库",
+  "description": "收集一些自己常用的图标，，更新日期：2025-04-12 21:00:00",
+  "icons": [
+    {
+      "name": "douban",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icon/douban.png"
+    },
