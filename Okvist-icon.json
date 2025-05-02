@@ -29,6 +29,18 @@
     {
       "name": "CTC2",
       "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/CTC2.png"
+    },
+    {
+      "name": "livecam",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/livecam.png"
+    },
+    {
+      "name": "kbjfree",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/kbjfree.png"
+    },
+    {
+      "name": "AV19",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/AV19.png"
     }
   ]
 }
