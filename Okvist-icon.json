@@ -45,6 +45,10 @@
     {
       "name": "Dcard",
       "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/Dcard.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/PayPal.png"
     }
   ]
 }
