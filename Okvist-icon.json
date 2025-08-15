@@ -49,6 +49,10 @@
     {
       "name": "PayPal",
       "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/PayPal.png"
+    },
+    {
+      "name": "whatsapp",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/whatsapp.png"
     }
   ]
 }
