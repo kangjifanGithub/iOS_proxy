@@ -289,6 +289,10 @@
             <td align=center>27</td>
             <td width="150px"><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/refs/heads/main/Loon/sooyaabo/Plugin/XPTV.lpx">XPTV</a></td>
     	</tr>
+        <tr>
+            <td align=center>28</td>
+            <td width="150px"><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/refs/heads/main/Loon/sooyaabo/Plugin/spotifyVIP.lpx">SpotifyVIP</a></td>
+    	</tr>
     </table>
 </div>
 
