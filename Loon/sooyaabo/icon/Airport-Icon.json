@@ -1,0 +1,74 @@
+{
+    "name": "Airport Icons",
+    "description": "sooyaaabo（恩秀）",
+    "icons": [
+        {
+            "name": "ACA",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/ACA.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/Aladdin-01.png"
+        },
+        {
+            "name": "Aladdin",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/Aladdin-02.png"
+        },
+        {
+            "name": "Alphaio",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/Alphaio.png"
+        },
+        {
+            "name": "Ash",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/AshNet-01.png"
+        },
+        {
+            "name": "Ash",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/AshNet-02.png"
+        },
+        {
+            "name": "Ash",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/AshNet-03.png"
+        },
+        {
+            "name": "Ash",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/AshNet-04.png"
+        },
+        {
+            "name": "CloudFisher",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/CloudFisher.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/EFCloud-01.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/EFCloud-02.png"
+        },
+        {
+            "name": "EFCloud",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/EFCloud-03.png"
+        },
+        {
+            "name": "Liangxin",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/Liangxin.png"
+        },
+        {
+            "name": "RedLeaf",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/RedLeaf-01.png"
+        },
+        {
+            "name": "RedLeaf",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/RedLeaf-02.png"
+        },
+        {
+            "name": "Doriya",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/Doriya.png"
+        },
+        {
+            "name": "OuO",
+            "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/Loon/sooyaabo/icon/Airport-Icon/OuO.png"
+        }
+    ]
+}
