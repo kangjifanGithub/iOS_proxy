@@ -53,6 +53,10 @@
     {
       "name": "whatsapp",
       "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/whatsapp.png"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/kangjifanGithub/iOS_proxy/main/icons/MESL.png"
     }
   ]
 }
