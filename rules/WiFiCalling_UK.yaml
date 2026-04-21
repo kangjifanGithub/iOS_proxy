@@ -1,0 +1,22 @@
+payload:
+# 苹果地区检测（影响 SIM 卡归属地识别）
+  - DOMAIN,gspe1-ssl.ls.apple.com
+# 沃达丰 UK
+  - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+  - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
+  - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-KEYWORD,mcc234
+  - IP-CIDR,88.82.0.0/19,no-resolve
+  - IP-CIDR,148.252.160.0/19,no-resolve
+# CMLink UK / EE
+  - IP-CIDR,46.68.0.0/17,no-resolve
+# Giffgaff
+  - DOMAIN-SUFFIX,giffgaff.com
+  - IP-CIDR,87.194.0.0/16,no-resolve
+# VOXI
+  - DOMAIN,vfgb.idemia.io
+# EE / CTE
+  - DOMAIN-SUFFIX,ee.co.uk
+  - IP-CIDR,31.94.0.0/16,no-resolve
