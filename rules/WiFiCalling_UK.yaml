@@ -15,6 +15,10 @@ payload:
 # Giffgaff
   - DOMAIN-SUFFIX,giffgaff.com
   - IP-CIDR,87.194.0.0/16,no-resolve
+# 3UK
+  - DOMAIN-SUFFIX,epdg.epc.mnc020.mcc234.pub.3gppnetwork.org
+  - IP-CIDR,185.153.236.0/22,no-resolve
+  - IP-CIDR,185.153.237.0/24,no-resolve
 # VOXI
   - DOMAIN,vfgb.idemia.io
 # EE / CTE
