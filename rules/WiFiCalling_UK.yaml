@@ -1,6 +1,4 @@
 payload:
-# 苹果地区检测（影响 SIM 卡归属地识别）
-  - DOMAIN,gspe1-ssl.ls.apple.com
 # 沃达丰 UK
   - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
   - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
