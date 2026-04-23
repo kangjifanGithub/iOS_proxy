@@ -1,0 +1,3 @@
+payload:
+# 苹果地区检测（影响 SIM 卡归属地识别）
+  - DOMAIN,gspe1-ssl.ls.apple.com
